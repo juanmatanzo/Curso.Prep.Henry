@@ -1,0 +1,16 @@
+h1 {
+    color:navajowhite;
+}
+img {
+    width: 400px;
+}
+.thirdDiv {
+    height: 600px;
+    width: 500px;
+    background: lightgreen;
+    padding: 50px;
+    border: thick double black;
+}
+.spanId{
+    margin: 50px;
+}
